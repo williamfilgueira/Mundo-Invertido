@@ -1,13 +1,16 @@
-# Mundo-Invertido
+   ### Mundo-Invertido
+
+  #Uma jornada para quem não tem medo do desconhecido.
 
 Projeto de Live da [DIO Innovation](https://www.dio.me/)
 
-![image](https://user-images.githubusercontent.com/70121248/186992669-cb3b8ea6-1d5a-4baf-bd81-b06d5aee6df3.png)
+![image](https://user-images.githubusercontent.com/70121248/186993582-a591ae05-1b34-47fe-9a56-0e09f3cb2b74.png)
+
 
 
 ------------------------------------------------------------------------------------------------------------------
 
-## Assuntos abordados 
+### Assuntos abordados 
 - HTML
 - Estruturação da página
 - Semântica
