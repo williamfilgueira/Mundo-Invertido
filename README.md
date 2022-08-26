@@ -1,6 +1,6 @@
 # Mundo-Invertido
 
-Projeto de Live da (DIO Innovation)[https://www.dio.me/]
+Projeto de Live da [DIO Innovation](https://www.dio.me/)
 
 ![image](https://user-images.githubusercontent.com/70121248/186992669-cb3b8ea6-1d5a-4baf-bd81-b06d5aee6df3.png)
 
