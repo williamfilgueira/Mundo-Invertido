@@ -3,6 +3,7 @@
   #Uma jornada para quem não tem medo do desconhecido.
 
 Projeto de Live da [DIO Innovation](https://www.dio.me/)
+Projeto seguido para fins de estudo de frontend.
 
 ![image](https://user-images.githubusercontent.com/70121248/186993582-a591ae05-1b34-47fe-9a56-0e09f3cb2b74.png)
 
